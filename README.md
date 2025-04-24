@@ -35,3 +35,7 @@ AutoAttack<sub>Fix</sub>
     year = {2020}
 }
 ```
+
+---
+
+**Check Our Adversarial Denoising Diffusion Training (ADDT) in [https://github.com/LYMDLUT/ADDT](https://github.com/LYMDLUT/ADDT)**
